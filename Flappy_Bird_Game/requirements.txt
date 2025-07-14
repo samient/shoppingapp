@@ -1,5 +1,6 @@
 # requirements.txt
-random
-sys
-pygram
-pygram.local
+random2==1.0.1
+pygame==2.1.0   # Ensure pygame is installed for the game
+# Add any additional dependencies here
+sys==0.9.8  # Example of a system dependency, adjust as needed
+pygrame.local==1.0.0  # Example of a local package, adjust as needed
