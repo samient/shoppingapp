@@ -1,0 +1,5 @@
+# requirements.txt
+random
+sys
+pygram
+pygram.local
